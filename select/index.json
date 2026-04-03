@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "No way",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-04-03T09:06:47.330197Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "That Ain't No Way to Go",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/01_That_Ain't_No_Way_to_Go_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "That Ain't No Way to Go",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/02_That_Ain't_No_Way_to_Go_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "There's No Way",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/03_There's_No_Way_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Way",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/04_No_Way_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey, That's No Way to Say Goodbye",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/05_Hey,_That's_No_Way_to_Say_Goodbye_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Way",
+      "artist": "Freak Power",
+      "has_synced": false,
+      "path": "select/06_No_Way_Freak_Power.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Way",
+      "artist": "Me & My",
+      "has_synced": true,
+      "path": "select/07_No_Way_Me_&_My.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Way In Hell - Radio Edit",
+      "artist": "Bomfunk MC's",
+      "has_synced": false,
+      "path": "select/08_No_Way_In_Hell_-_Radio_Edit_Bomfunk_MC's.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "no way (feat. Jamie Foxx)",
+      "artist": "Roddy Ricch",
+      "has_synced": true,
+      "path": "select/09_no_way_(feat._Jamie_Foxx)_Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Way",
+      "artist": "Trisomie 21",
+      "has_synced": false,
+      "path": "select/10_No_Way_Trisomie_21.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Way",
+      "artist": "Sevdaliza",
+      "has_synced": true,
+      "path": "select/11_No_Way_Sevdaliza.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Way Out",
+      "artist": "Sepiamusic",
+      "has_synced": true,
+      "path": "select/12_No_Way_Out_Sepiamusic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Way (Stripped)",
+      "artist": "The Naked and Famous",
+      "has_synced": true,
+      "path": "select/13_No_Way_(Stripped)_The_Naked_and_Famous.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No Way",
+      "artist": "The Breeders",
+      "has_synced": false,
+      "path": "select/14_No_Way_The_Breeders.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Way (Bassnectar Remix)",
+      "artist": "The Naked and Famous",
+      "has_synced": true,
+      "path": "select/15_No_Way_(Bassnectar_Remix)_The_Naked_and_Famous.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No way",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_No_way_04_Limited_Sazabys.txt"
+    }
+  ]
+}
